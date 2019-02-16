@@ -1,0 +1,7 @@
+body{                       /*Without Specificity in style.css these css styles will be applied*/
+    background-color: red;
+}
+
+header h1{
+        color: blue;
+}

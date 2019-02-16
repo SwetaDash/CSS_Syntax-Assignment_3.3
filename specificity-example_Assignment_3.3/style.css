@@ -1,0 +1,7 @@
+html body{                   /*overrides third-party.css style*/
+    background-color: blue;
+}
+
+header h1.title{
+        color: white;
+}
